@@ -9,17 +9,14 @@
 
 #
 ### About Mitron Bank 
-[🔁Home](#table-of-content)
 
 Mitron Bank is a legacy financial institution headquartered in Hyderabad. They want to introduce a new line of credit cards, aiming to broaden its product offerings and reach in the financial market.
 
 ### Objective of the Project 
- [🔁Home](#table-of-content)
 
 The objective is to analyze this data and provide actionable, data-driven recommendations to guide Mitron Bank in tailoring the new credit cards to customer needs and market trends. 
 
 ### Problem Statment   
-[🔁Home](#table-of-content)
 
  * Demographic classification: Classify the customers based on available demography such as age group, gender, occupation etc. and provide insights based on them.
    
@@ -34,7 +31,6 @@ The objective is to analyze this data and provide actionable, data-driven recomm
 
 
 ## Demographic Classification:   
-[🔁Home](#table-of-content)
 
 For demographic classification, I have conducted a thorough customer demographic analysis using Power BI, and here are the key findings presented in a visually engaging manner:
 
@@ -66,7 +62,6 @@ The dataset encompasses a substantial pool of 4000 customers, forming the founda
 #
 
 ## Income Utilization & Spending Analysis  
- [🔁Home](#table-of-content)
 
 In pursuit of illuminating critical insights into customer spending patterns and understanding the average income utilization across diverse segments, a dedicated analytical exploration has been undertaken. To facilitate a comprehensive understanding, a bespoke "Customers Spend Analysis" page has been meticulously crafted within Power BI. This page serves as the epicenter for unraveling intricate details, housing a plethora of Key Performance Indicators (KPIs) and insightful charts and graphs.
 
@@ -106,7 +101,6 @@ Males exhibit a higher income utilization rate at 44.39%, compared to females at
 Singles show a utilization rate of 43.06%, slightly surpassing married individuals at 42.77%.
 
 ## Recomendation for Next Credit Card
-[🔁Home](#table-of-content)
 
 To improve the likelihood of credit card usage among the identified target customers (salaried employees, self-employed individuals, and freelancers), consider incorporating the following key features in the credit card:
 
